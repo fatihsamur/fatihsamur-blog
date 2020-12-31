@@ -54,7 +54,7 @@
             },
             {
                 "type": "action",
-                "label": "Instagram",
+                "label": "",
                 "url": "https://www.instagram.com/",
                 "style": "icon",
                 "icon_class": "",
