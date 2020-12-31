@@ -54,14 +54,6 @@
             },
             {
                 "type": "action",
-                "label": "",
-                "url": "",
-                "style": "icon",
-                "icon_class": "",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "style": "icon",
