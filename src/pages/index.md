@@ -6,8 +6,8 @@ sections:
     title: 'Hi, I''m Fatih Samur'
     section_id: hero
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I'm a doctor and a passionate software developer based in Ankara Turkey. I
+      write blogs on science and technology, 
   - type: section_content
     title: About
     section_id: about
