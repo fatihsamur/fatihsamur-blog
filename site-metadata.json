@@ -47,7 +47,7 @@
             {
                 "type": "action",
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/coding_dr",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
