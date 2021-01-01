@@ -5,9 +5,7 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Fatih'
     section_id: hero
-    content: >-
-      I'm a doctor and a passionate software developer based in Ankara Turkey. I
-      write blogs on science and technology, 
+    content: 'I''m a doctor and a software developer. '
   - type: section_content
     title: About
     section_id: about
