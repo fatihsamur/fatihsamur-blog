@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: Hello! I’m Fatih. I'm a doctor and a passionate software developer.
 img_path: /images/5.jpg
 template: page
 ---
