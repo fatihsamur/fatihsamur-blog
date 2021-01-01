@@ -1,7 +1,6 @@
 ---
 title: About Me
 subtitle: Hello! I’m Fatih. I'm a doctor and a passionate software developer.
-img_path: /images/5.jpg
 template: page
 ---
 
