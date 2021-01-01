@@ -5,4 +5,9 @@ img_path: /images/5.jpg
 template: page
 ---
 
-Hello Darkness my old friend. !
+In the long journey of my medical education I also taught myself programming. Over the last 5 years, I have;
+- Built websites and web apps for businesses, nonprofit organizations and for myself,
+- Completed lots of freelance software development work.
+- Created medical applications to automate the repetitive tasks in hospital.
+My favorite programming language is JavaScript and I like to build full stack web applications with it. I have a lot of experience with React, Node and Express.
+In addition to web development, I have a profound understanding of core principles of programming. I'm also interested in Machine Learning technologies especially applications of ML on medicine.
