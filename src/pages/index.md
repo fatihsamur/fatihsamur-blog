@@ -5,12 +5,7 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Fatih'
     section_id: hero
-    content: >-
-      I'm a doctor and a software developer from Turkey. I like to build web
-      applications and share about them. In this blog I mostly write about
-      programming, web development, machine learning, neuroscience and also I
-      share my thoughts on anything related to science, technology and
-      philosophy. 
+    content: I'm a doctor and a software developer from Turkey.
   - type: section_content
     title: About
     section_id: about
