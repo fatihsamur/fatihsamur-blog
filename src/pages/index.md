@@ -9,7 +9,7 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: 'This paragraph is about me and my works. '
+    content: ' I like to build web applications and share about them. In this blog I mostly write about programming, web development, machine learning, neuroscience and also I share my thoughts on anything related to science, technology and philosophy. '
     actions:
       - type: action
         label: Contact Me
