@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: 'Hi, I''m Fatih Samur'
+    title: 'Hi, I''m Fatih'
     section_id: hero
     content: >-
       I'm a doctor and a passionate software developer based in Ankara Turkey. I
