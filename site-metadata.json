@@ -48,18 +48,18 @@
             },
             {
                 "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/DrFatihSamur",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "GitHub",
                 "url": "https://github.com/fatihsamur",
                 "style": "icon",
                 "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Twitter",
+                "url": "https://twitter.com/DrFatihSamur",
+                "style": "icon",
+                "icon_class": "fa-twitter",
                 "new_window": true
             }
         ]
