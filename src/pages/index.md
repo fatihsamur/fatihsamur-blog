@@ -24,7 +24,7 @@ sections:
   - type: section_posts
     title: Recent Posts
     section_id: recent-posts
-    posts_number: 4
+    posts_number: 2
     actions:
       - type: action
         label: View Blog
