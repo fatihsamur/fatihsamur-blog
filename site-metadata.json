@@ -40,6 +40,14 @@
         "social_links": [
             {
                 "type": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/fatihsamur/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            },
+            {
+                "type": "action",
                 "label": "Twitter",
                 "url": "https://twitter.com/DrFatihSamur",
                 "style": "icon",
@@ -52,14 +60,6 @@
                 "url": "https://github.com/fatihsamur",
                 "style": "icon",
                 "icon_class": "fa-github",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/fatihsamur/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
                 "new_window": true
             }
         ]
