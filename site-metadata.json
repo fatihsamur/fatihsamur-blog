@@ -57,7 +57,7 @@
             {
                 "type": "action",
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/fatih-samur/",
+                "url": "https://www.linkedin.com/in/fatihsamur/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
