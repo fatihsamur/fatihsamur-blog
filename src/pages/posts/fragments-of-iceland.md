@@ -1,7 +1,6 @@
 ---
 title: Fragments of Iceland
 date: '2019-03-27'
-thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
