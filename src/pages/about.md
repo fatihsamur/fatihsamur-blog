@@ -9,6 +9,8 @@ In the long journey of my medical education I also taught myself programming. Ov
 *   Completed lots of freelance software development work.
 *   Created medical applications to automate the repetitive tasks in hospital.
 
-In addition to web development, I have a profound understanding of core principles of programming. 
+Beside my  web development skills, I have a profound understanding of core principles of programming.
 
-I'm also interested in Machine Learning technologies especially applications of ML on medicine.
+I'm also interested in Artificial Intelligence and Neuroscience. I like to follow the most up-to-date information about those topics and write about them. 
+
+ 
