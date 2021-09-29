@@ -9,7 +9,12 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: ' I like to build web applications and share about them. In this blog I mostly write about programming, web development, machine learning, neuroscience and also I share my thoughts on anything related to science, technology and philosophy. '
+    content: >
+      Beside being a doctor, as a self-taught software developer, I am very
+      passionate about technology. In this blog I mostly write about
+      programming, web development, artificial intelligence, neuroscience and
+      also I share my thoughts on anything related to science, technology and
+      future of medicine.
     actions:
       - type: action
         label: Contact Me
