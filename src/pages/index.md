@@ -11,11 +11,9 @@ sections:
     title: About
     section_id: about
     content: >
-      Beside being a doctor, as a self-taught software developer, I am very
-      passionate about technology. In this blog I mostly write about
-      programming, web development, artificial intelligence, neuroscience and
-      also I share my thoughts on anything related to science, technology and
-      future of medicine.
+      This is my personal website and my blog. I use this blog to write about
+      medicine, programming, web development or just to share my thoughts about
+      anything related to science and philosophy.
     actions:
       - type: action
         label: Contact Me
