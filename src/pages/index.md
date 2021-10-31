@@ -12,8 +12,8 @@ sections:
     section_id: about
     content: >
       This is my personal website and my blog. I use this blog to write about
-      medicine, programming, web development or just to share my thoughts about
-      anything related to science and philosophy.
+      programming, web development, new technologies or just to share my
+      thoughts about anything related to science and medicine.
     actions:
       - type: action
         label: Contact Me
