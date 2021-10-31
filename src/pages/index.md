@@ -6,7 +6,7 @@ sections:
     title: 'Hi, I''m Fatih'
     section_id: hero
     content: |
-      I'm a doctor and a passionate software developer.
+      I'm a doctor who is passionate about software development.
   - type: section_content
     title: About
     section_id: about
