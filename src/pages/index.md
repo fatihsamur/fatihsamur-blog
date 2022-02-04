@@ -13,7 +13,7 @@ sections:
     content: >
       This is my personal website and my blog. I use this blog to write about
       programming, web development, new technologies or just to share my
-      thoughts about anything related to science and medicine.
+      thoughts.
     actions:
       - type: action
         label: Contact Me
