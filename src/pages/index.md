@@ -5,8 +5,9 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Fatih'
     section_id: hero
-    content: |
-      I'm a doctor who is passionate about software development.
+    content: >
+      I’m a software developer specializing in building exceptional digital
+      experiences.
   - type: section_content
     title: About
     section_id: about
