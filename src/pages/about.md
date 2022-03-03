@@ -1,8 +1,8 @@
 ---
 title: About Me
 subtitle: >-
-  Hello! I’m Fatih, a web developer from Turkey. I have been building web sites
-  and applications for 6+ years.
+  Hello! I’m Fatih, a software developer from Turkey. I have been building web
+  sites and applications for 5+ years.
 template: page
 ---
   I am a full stack web developer specialize on Ecommerce  and SAAS development.  I work with startups and top companies  to create inclusive, effective and impactful web applications. Also I love open source development and I build things on my Github profile. 
