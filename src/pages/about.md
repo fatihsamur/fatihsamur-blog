@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Hello! I’m Fatih.
+subtitle: 'Hello! I’m Fatih,'
 template: page
 ---
 In the long journey of my medical education I also taught myself programming. Over the last 5 years, I have;
