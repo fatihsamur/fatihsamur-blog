@@ -1,8 +1,8 @@
 ---
 title: About Me
 subtitle: >-
-  Hello! I’m Fatih, a web developer from Turkey. I have been building websites
-  for
+  Hello! I’m Fatih, a web developer from Turkey. I have been building web sites
+  and applications for 6+ years.
 template: page
 ---
 In the long journey of my medical education I also taught myself programming. Over the last 5 years, I have;
