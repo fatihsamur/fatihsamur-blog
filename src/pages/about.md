@@ -1,6 +1,8 @@
 ---
 title: About Me
-subtitle: 'Hello! I’m Fatih, a web developer from Turkey. I''ve been'
+subtitle: >-
+  Hello! I’m Fatih, a web developer from Turkey. I have been building websites
+  for
 template: page
 ---
 In the long journey of my medical education I also taught myself programming. Over the last 5 years, I have;
