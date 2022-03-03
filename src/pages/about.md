@@ -5,14 +5,8 @@ subtitle: >-
   and applications for 6+ years.
 template: page
 ---
-In the long journey of my medical education I also taught myself programming. Over the last 5 years, I have;
+  I am a full stack web developer specialize on Ecommerce  and SAAS development.  I work with startups and top companies  to create inclusive, effective and impactful web applications. Also I love open source development and I build things on my Github profile. 
 
-*   Built websites and web apps for businesses, nonprofit organizations and for myself,
-*   Completed lots of freelance software development work.
-*   Created medical applications to automate the repetitive tasks in hospital.
+  I am experienced with PHP, Laravel on the backend side and Javascript,  React  on the frontend side. Also I like to learn and use new technologies. 
 
-Beside my  web development skills, I have a profound understanding of core principles of programming.
-
-I'm also interested in Artificial Intelligence and Neuroscience. I like to follow the most up-to-date information about those topics and write about them. 
-
- 
+  Beside my  web development skills, I have a profound understanding of core principles of programming and I like to write blog posts about programming, web development and new technologies. 
