@@ -11,10 +11,7 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: >
-      This is my personal website and my blog. I use this blog to write about
-      programming, web development, new technologies or just to share my
-      thoughts.
+    content: "  This is my personal website and my blog. I use this blog for writing about web development, new technologies and programming. I love\_open source development\_and I build things on my [Github](https://github.com/fatihsamur) profile.\n"
     actions:
       - type: action
         label: Contact Me
